@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CourseraContacto</string>
+    <string name="activity_main_title">Ingresar datos</string>
+    <string name="activity_datos_title">Resumen de datos</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion_contacto">Descripción Contacto</string>
+    <string name="nombre_error">Por favor introduce un nombre correcto</string>
+    <string name="telefono_error">Por favor introduce un número de télofono válido</string>
+    <string name="correo_error">Por favor introduce un correo válido</string>
+    <string name="descrip_error">Por favor introduce una descripción</string>
+    <string name="fecha_predeter">01/01/2018</string>
+    <string name="fecha_formateada">%s/%s/%d</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento: %s</string>
+    <string name="tel_concat">Tel: %s</string>
+    <string name="email_concat">Email: %s</string>
+    <string name="descrip_concat">Descripción: %s</string>
+    <string name="confirmar_titulo">Confirmar Datos</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="descripcion">Descripción:</string>
+</resources>
